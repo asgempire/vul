@@ -1,0 +1,7 @@
+# VULTUR CONTROL REMOTO
+# Formato: CODIGO;COMANDO
+# COMANDOS: BLOQUEADO = cierra su app | LIBRE = desbloquea (prueba 3 dias) | +ND = suma dias | -ND = quita dias
+# EJEMPLOS (quita el # para activar):
+# 7UJA4Y;BLOQUEADO
+# 7UJA4Y;LIBRE
+# 7UJA4Y;+5D
