@@ -4,4 +4,4 @@
 # EJEMPLOS (quita el # para activar):
 # 7UJA4Y;BLOQUEADO
  7UJA4Y;LIBRE
-# 7UJA4Y;+5D
+ 7UJA4Y;+9D
